@@ -139,13 +139,13 @@
                         :valign "center"
                         :spacing 35
                 
-                        (button :onclick "/home/rashad/.bin/volumControl.sh toggle"
+                        (button :onclick "/home/rashad/.bin/volumControl toggle"
                                 (image  :path "${audio}"
                                 :width "95"
                                 :height "95"
                                 )    
                         )
-                        (button :onclick "/home/rashad/.bin/toggleDunst.sh"
+                        (button :onclick "/home/rashad/.bin/toggleDunst"
                                 (image  :path "${notifications}"
                                 :width "95"
                                 :height "95"
@@ -166,7 +166,7 @@
                                         :height "95"
                                 )
                         )
-                        (button :onclick "/home/rashad/.bin/micNotify.sh"
+                        (button :onclick "/home/rashad/.bin/micNotify"
                                 (image  :path "${mic}"
                                         :width "95"
                                         :height "95"
