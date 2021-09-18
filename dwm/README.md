@@ -1,9 +1,9 @@
 # DWM configurations
 
 ### Patches
-[Full gaps](https://dwm.suckless.org/patches/fullgaps/)
-[Autostart](https://dwm.suckless.org/patches/autostart/)
-[IPC](https://dwm.suckless.org/patches/ipc/)
+[Full gaps](https://dwm.suckless.org/patches/fullgaps/)  
+[Autostart](https://dwm.suckless.org/patches/autostart/)  
+[IPC](https://dwm.suckless.org/patches/ipc/)  
 A custome patch to add a top space for the bar so windows will not overlay, you can modify the space as you want. 
 
 For the side widgets, adding a space is a litle bit tricky, because I alrady installed full gaps patch, making a patch for that is difficult so here how you can you do it if you also using gap patch:
