@@ -34,6 +34,6 @@ tile(Monitor *m)
 		}
 }
 ```
-In this function (in dwm.c), the **450** is for making a room for the widgets that I added, you can modify this number as you need.
+In this function (in `dwm.c`), the`450`  that I've added is for making a room for the widgets, you can modify this number as you need.
 
 For the **center widgets** I haven't yet figure a way to make widgets appear only in a single tag becaus rules is not working for it, If you find a way I'll be happy if you share it with me :) 
